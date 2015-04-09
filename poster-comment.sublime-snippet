@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+////
+/// ${1:File-level comment}
+/// ${2:@group}
+/// ${3:@author}
+////
+]]></content>
+	<tabTrigger>sassfile</tabTrigger>
+</snippet>
